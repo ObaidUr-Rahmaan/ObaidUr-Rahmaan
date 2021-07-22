@@ -1,4 +1,4 @@
-- 👋 Heyo, call me Obaid! :)
+- 👋 Hey there, call me Obaid! :)
 - 👀 I’m mostly interested in Back-end technologies although I've dabbled in a variety of front-end frameworks such as ReactJS, VueJS, FeatherJS etc.
 - 🌱 Currently learning Terraform, AWS, Nginx, Springboot, etc.
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
