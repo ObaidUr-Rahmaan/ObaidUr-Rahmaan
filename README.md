@@ -1,4 +1,4 @@
-- 👋 Hey there, call me Obaid! I'm presently working as a Back-end Engineer at [Vonage](https://www.vonage.co.uk/) (previously Nexmo)
+- 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)! I'm presently working as a Back-end Engineer at [Vonage](https://www.vonage.co.uk/) (previously Nexmo)
 - 👀 Mostly interested in Back-end technologies although I've dabbled in a variety of front-end frameworks such as ReactJS, VueJS, FeatherJS etc.
 - 🌱 Currently learning AWS, Terraform, Nginx
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
