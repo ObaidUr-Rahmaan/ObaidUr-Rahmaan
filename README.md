@@ -1,7 +1,7 @@
 - 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)! I'm presently working as a Back-end Engineer at [Vonage](https://www.vonage.co.uk/) (previously Nexmo, Soon-to-be [Ericcson](https://www.ericsson.com/en/press-releases/2021/11/ericsson-to-acquire-vonage-for-usd-6.2-billion-to-spearhead-the-creation-of-a-global-network-and-communication-platform-for-open-innovation))
 - 👀 Interested in Full-Stack Tech
 - 🌱 Currently learning NextJS, TailwindCSS, AWS
-- 🙌🏼 Building [Integratize ](https://www.integratize.io/)
+- 🙌🏼  Building [Integratize ](https://www.integratize.io/)
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
 
 <!---
