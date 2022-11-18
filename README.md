@@ -1,6 +1,6 @@
 - 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)! I'm presently working as a Full-Stack Engineer at [Vonage](https://www.vonage.co.uk/) (previously Nexmo, Soon-to-be [Ericcson](https://www.ericsson.com/en/press-releases/2021/11/ericsson-to-acquire-vonage-for-usd-6.2-billion-to-spearhead-the-creation-of-a-global-network-and-communication-platform-for-open-innovation))
 - 👀 Interested in Full-Stack Tech
-- 🌱 Currently learning VueJS, Micronaut, TailwindCSS, AWS, Kubernetes
+- 🌱 Currently learning VueJS, TailwindCSS, Micronaut, Redis, AWS, Kubernetes
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
 
 <!---
