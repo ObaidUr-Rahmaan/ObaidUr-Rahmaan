@@ -1,6 +1,6 @@
 - 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)!
-- Currently working as a Software Engineer at [Zuora](https://www.zuora.com/)
-- 👀 Interested in building large-scale SAAS
+- By Day, I work on the Zephr product @ [Zuora](https://www.zuora.com/)
+- By Night, I run a paid community helping ambitious muslims transition into Tech
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
 
 <!---
