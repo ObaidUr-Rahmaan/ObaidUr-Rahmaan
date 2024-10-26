@@ -1,5 +1,5 @@
 - 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)!
-- By Day, I work on the Zephr product @ [Zuora](https://www.zuora.com/)
+- By Day, I work on the [Zephr](https://www.zuora.com/products/zephr/) product @ Zuora
 - By Night, I run a paid community helping ambitious muslims transition into Tech
 - 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
 
