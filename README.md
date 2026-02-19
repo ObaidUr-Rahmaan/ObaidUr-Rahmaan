@@ -1,8 +1,4 @@
-- 👋 Hey there, call me Obaid (*pronounced 'obeyed'*)!
-- By Day, I work on the [Zephr](https://www.zuora.com/products/zephr/) product @ Zuora
-- By Night, I build useful products that benefit the Ummah
-- I also run a community helping ambitious muslims transition into Tech (https://codeandcreed.tech/)
-- 📫 Any business enquiries, Feel free to reach out to me: ourrahmaan@gmail.com
+Working on the SDLC of the future. Training and placing top Technical Talent into well-funded Startups across the US, EU, and MENA.
 
 <!---
 ObaidUr-Rahmaan/ObaidUr-Rahmaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
